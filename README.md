@@ -1,1 +1,1 @@
-# Pneumonia-Detection-Using-Tranfer-Learning
+# Pneumonia-Detection-Using-Transfer-Learning
